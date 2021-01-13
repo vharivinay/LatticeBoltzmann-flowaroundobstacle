@@ -34,3 +34,6 @@ Dependencies:
 *  Inputs can me set up as desired in the flow conditons sections
 *  The obstacle geometry can be changed by entering the equation of a desired shaped in obstacle_func
 
+## Demo
+[![Flow around an ellipse](https://img.youtube.com/vi/HxTHIJGJsYY/0.jpg)](https://youtu.be/HxTHIJGJsYY)
+
