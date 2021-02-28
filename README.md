@@ -32,7 +32,7 @@ Dependencies:
     ffmpeg - install using pip install ffmpeg-python
     graphviz - install using pip install graphviz
 
-*  Inputs can me set up as desired in the flow conditons sections
+*  Inputs can be set up as desired in the flow conditons sections
 *  The obstacle geometry can be changed by entering the equation of a desired shaped in obstacle_func
 
 ## Demo
