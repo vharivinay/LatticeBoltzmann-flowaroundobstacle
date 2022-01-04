@@ -107,7 +107,7 @@ obstacle = fromfunction(obstacle_fun, (nx,ny))
 
 # Initial velocity profile: almost zero, with a slight perturbation to trigger
 # the instability.
-def inivel(d, x, y):
+def inivel(d, _, y):
     return (1-d) * uLB * (1 + 1e-4*sin(y/ly*2*pi))
 
 vel = fromfunction(inivel, (2,nx,ny))
